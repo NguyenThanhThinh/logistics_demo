@@ -40,6 +40,7 @@
     "@swimlane/ngx-datatable": "^20.0.0",
     "@types/d3-shape": "^3.0.2",
     "acorn": "^8.6.0",
+    "angular-cli-ghpages": "^1.0.0",
     "angular-feather": "^6.1.0",
     "angular-gauge": "^4.0.0",
     "apexcharts": "^3.32.0",
