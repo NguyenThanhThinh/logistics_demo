@@ -5,7 +5,7 @@ import { HttpClient, HttpErrorResponse } from "@angular/common/http";
 import { UnsubscribeOnDestroyAdapter } from "src/app/shared/UnsubscribeOnDestroyAdapter";
 @Injectable()
 export class AppointmentsService extends UnsubscribeOnDestroyAdapter {
-  private readonly API_URL = "assets/data/doc-Appointments.json";
+  private readonly API_URL = "assets/data/doc-appointments.json";
   isTblLoading = true;
   dataChange: BehaviorSubject<Appointments[]> = new BehaviorSubject<
     Appointments[]

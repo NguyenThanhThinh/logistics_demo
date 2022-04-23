@@ -25,7 +25,7 @@ const users: User[] = [
   },
   {
     id: 2,
-    img: "assets/images/user/Sales.jpg",
+    img: "assets/images/user/user1.jpg",
     username: "Sales@logistics.org",
     password: "Sales@123",
     firstName: "Sales",
@@ -35,7 +35,7 @@ const users: User[] = [
   },
   {
     id: 3,
-    img: "assets/images/user/Manage.jpg",
+    img: "assets/images/user/user2.jpg",
     username: "Manage@logistics.org",
     password: "Manage@123",
     firstName: "Manage",
